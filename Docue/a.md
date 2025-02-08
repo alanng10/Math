@@ -13,3 +13,5 @@ Math sub is count less.
 Math mul is count times more.
 
 Math div is count times of.
+
+Math digit is number character.
