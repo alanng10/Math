@@ -23,3 +23,5 @@ Math has park operate alpha.
 Math has park operate result alpha.
 
 Math park operate uses two base integer is enough element.
+
+Math park operate uses two base integer and 1 bit and, orn and not operates is enough element.
