@@ -1,6 +1,6 @@
 # Math
 
-Math is park math.
+Math is park math. 
 
 Math is calc info.
 
