@@ -32,6 +32,8 @@ Math has park kind arch.
 
 Math has park kind arch worth.
 
+Math has major.
+
 Math is calc info.
 
 Calc info is apply integer representation to any.
