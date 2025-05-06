@@ -32,6 +32,10 @@ Math has park kind arch.
 
 Math has park kind arch worth.
 
+Math has park mark.
+
+Math has park cross.
+
 Math has major.
 
 Math is calc info.
